@@ -1,4 +1,11 @@
 **simplesocial/accounts/__pycache__
-**simplesocial/accounts/migrations/
-**simplesocial/simplesocial/__pycache__/
-simplesocial/db.sqlite3
+**simplesocial/accounts/migrations
+**simplesocial/simplesocial/__pycache__
+**simplesocial/groups/__pycache__
+**simplesocial/posts/__pycache__
+**simplesocial/groups/migrations
+**simplesocial/posts/migrations
+**simplesocial/groups/migrations/__pycache__
+**simplesocial/posts/migrations/__pycache__
+**groups/migrations
+*simplesocial/db.sqlite3
